@@ -2,7 +2,7 @@
 
 This contains everything you need to run your app locally.
 
-View your app: ![stack](./sample_image/stack.png)
+![stack](./sample_image/stack.png)
 
 ## Run Locally
 
